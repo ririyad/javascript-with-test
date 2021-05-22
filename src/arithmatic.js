@@ -6,8 +6,13 @@ const subtract = (num1, num2) => (
 
 const multiply = (num1, num2) => num1 * num2; 
 
+const division = (num1, num2) => (
+    num1 > num2 ? (num1/num2) : (num2/num1)
+);
+
 module.exports = {
     add,
     subtract,
-    multiply
+    multiply,
+    division
 }
