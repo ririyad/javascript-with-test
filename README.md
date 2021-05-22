@@ -6,9 +6,9 @@ _This repository is still at experimental stage._
 Practice JavaScript with test
 
 ## TODO
----
 
-- Run all test file within a test directory.
+
+- Run all test file within a test directory
 https://gist.github.com/timoxley/1721593
 
 ### Source Link
