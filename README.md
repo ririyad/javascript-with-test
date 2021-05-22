@@ -1,6 +1,8 @@
 ## JavaScript with Test
 ---
 
+_This repository is still in experimental stage. Later I will publish it as template_
+
 Practice JavaScript with test
 
 ### Source Link
