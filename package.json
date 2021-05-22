@@ -1,0 +1,17 @@
+{
+  "name": "nodewithtesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "",
+    "test": "mocha ./test/index.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.4.0",
+    "request": "^2.88.2"
+  }
+}
