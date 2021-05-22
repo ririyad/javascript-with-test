@@ -1,4 +1,4 @@
-const add = (a, b) => a + b;
+const hello = () => 'Hello, Universe!'
 
 
-module.exports = add;
+module.exports = hello;
