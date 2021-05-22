@@ -1,7 +1,7 @@
 ## JavaScript with Test
 ---
 
-_This repository is still at experimental stage. Later I will publish it as template_
+_This repository is still at experimental stage._
 
 Practice JavaScript with test
 
