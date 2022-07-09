@@ -5,12 +5,6 @@ _This repository is still at experimental stage._
 
 Practice JavaScript with testing.
 
-## TODO
-
-
-- Run all test files within a test directory
-https://gist.github.com/timoxley/1721593
-
 ### Source Link
 ---
 1. https://www.digitalocean.com/community/tutorials/how-to-test-a-node-js-module-with-mocha-and-assert
